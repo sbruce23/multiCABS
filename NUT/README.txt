@@ -3,6 +3,7 @@
 Implements the procedure introduced in the paper
 Zeda Li, Scott A. Bruce, Clinton J. Wutzke, and Yang Long "Conditional Adaptive Bayesian Spectral Analysis of Replicated Multivariate Time Series"
 *Note that this folder contains code that implements NUT sampler, the other folders contains codes for HMC sampler.
+*The code is based partially on the NUT implementation of https://github.com/aki-nishimura/NUTS-matlab
 
 Use DEMO.m as an illustration.
 
